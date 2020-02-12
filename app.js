@@ -98,7 +98,8 @@
     "#6f7a8b",
     "#d54a2e",
     "#317891",
-    "#29303B"
+    "#29303B",
+    "#392778"
   ];
   function createInputCode() {
     let box = document.querySelector(".color__box");
